@@ -10,3 +10,8 @@ Currently I'm **contributing and owner** following remarkable projects:
 |-------------|----------|---------|
 | [**Laravel Shopping Cart**](https://github.com/tquangdo/vue2-laravel8-stripe-shopping-cart) | [![GitHub PRs](https://img.shields.io/github/stars/tquangdo/vue2-laravel8-stripe-shopping-cart?style=flat&logo=github)](https://github.com/tquangdo/vue2-laravel8-stripe-shopping-cart) | [![GitHub issues](https://img.shields.io/github/issues/tquangdo/vue2-laravel8-stripe-shopping-cart?color=green&logo=github&style=flat)](https://github.com/tquangdo/vue2-laravel8-stripe-shopping-cart/issues) |
 | [**Twitter Clone**](https://github.com/tquangdo/react-socialape-client/) | [![GitHub PRs](https://img.shields.io/github/stars/tquangdo/react-socialape-client?style=flat&logo=github)](https://github.com/tquangdo/react-socialape-client) | [![GitHub issues](https://img.shields.io/github/issues/tquangdo/react-socialape-client?color=green&logo=github&style=flat)](https://github.com/tquangdo/react-socialape-client/issues) |
+
+************************
+This is demo of [Pokemon project](https://github.com/tquangdo/rn-fe-some-demos) by *ReactNative*:
+************************
+![demo](demo.gif)
